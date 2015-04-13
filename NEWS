@@ -12,4 +12,5 @@ NEW FEATURES
 
 CHANGES IN DMRcate VERSION 1.2.1 
 
-CITATION added
+- Extra control for Type I error through DMR constituents made commensurate with # of differential limma probes
+- CITATIONs added

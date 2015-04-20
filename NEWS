@@ -10,7 +10,7 @@ NEW FEATURES
 •	XY probes can also be filtered out using rmSNPandCH().
 •	DMR.plot() allows group median lines to be plotted to better visualise distances between groups (Thanks to Susan van Dijk and Magnus Tobiasson for their advice).
 
-CHANGES IN DMRcate VERSION 1.2.1 
+CHANGES IN DMRcate VERSION 1.4.1 
 
 - Extra control for Type I error through DMR constituents made commensurate with # of differential limma probes
 - CITATIONs added
